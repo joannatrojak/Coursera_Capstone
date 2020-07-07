@@ -1,7 +1,7 @@
-A. Introduction/Bussiness Problem
+# A. Introduction/Bussiness Problem
 
 The purpose of the project is to analyze crimes in the city of Boston and answer such questions like what are the most common types of crimes likely to occur in the particular district and around which venues are the most likely to occur. Also is there any change in the frequency of crimes based on day, week or year, what are the most dangerous Boston's districts.
-B. Data
+# B. Data
 
 To analyze the problem, I have considered the following data:
 
