@@ -1,0 +1,9 @@
+A. Introduction/Bussiness Problem
+
+The purpose of the project is to analyze crimes in the city of Boston and answer such questions like what are the most common types of crimes likely to occur in the particular district and around which venues are the most likely to occur. Also is there any change in the frequency of crimes based on day, week or year, what are the most dangerous Boston's districts.
+B. Data
+
+To analyze the problem, I have considered the following data:
+
+    I have used the dataset provided by the Boston Police Department which documents the incidents. The data is from the new crime incident report system. It is often updated. The newest dataset is from August 2015 until July, 2nd 2020.
+    Additionally, I have used Foursquare API to get the data of the most common venues in each district. 
